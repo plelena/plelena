@@ -6,5 +6,5 @@ I'm a Data analyst with a growing interest in AI and automation.
 📈 Passionate about turning data into insights.
 
 📫 How to reach me:  
-My [LinkedIn](www.linkedin.com/in/ozavalna)  
-My email: plelena@gmail.com  
+[LinkedIn](www.linkedin.com/in/ozavalna)  
+plelena@gmail.com  
