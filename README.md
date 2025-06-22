@@ -5,4 +5,6 @@ I'm a Data analyst with a growing interest in AI and automation.
 🤖 Currently learning to build AI agents with LLMs  
 📈 Passionate about turning data into insights.
 
-📫 How to reach me: [LinkedIn](www.linkedin.com/in/ozavalna)
+📫 How to reach me:  
+[LinkedIn](www.linkedin.com/in/ozavalna)  
+email: plelena@gmail.com  
